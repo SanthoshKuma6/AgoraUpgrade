@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agora Video</string>
+    <string name="join">Join</string>
+    <string name="leave">Leave</string>
+</resources>
